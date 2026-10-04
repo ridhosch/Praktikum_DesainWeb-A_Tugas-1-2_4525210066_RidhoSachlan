@@ -54,4 +54,4 @@ Informasi kontak R&D Universitas Pancasila:
 4. Jika menggunakan Visual Studio Code, file juga dapat dijalankan menggunakan ekstensi Live Server.
 
 ## Hasil Run web
-![alt text](image.png)
+!Output(IMG/image.png)
