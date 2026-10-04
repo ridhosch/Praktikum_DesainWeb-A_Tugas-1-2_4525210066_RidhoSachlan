@@ -15,40 +15,19 @@ Organisasi ini menjadi wadah bagi mahasiswa dari berbagai disiplin ilmu untuk me
 
 ## Struktur Halaman
 
-Website terdiri dari beberapa bagian utama:
-
-### 1. Tentang Organisasi
+# 1. Tentang Organisasi
 Berisi informasi mengenai organisasi R&D Universitas Pancasila dan misi organisasi.
 
-### 2. Program dan Kegiatan
-Program yang ditampilkan dalam website:
+# 2. Program dan Kegiatan
+Program yang ditampilkan dalam website
 
-- **RND Scientific Class**
-  - Pelatihan menyusun karya tulis ilmiah
-  - Pelatihan jurnal
-  - Persiapan Program Kreativitas Mahasiswa
+# 3. Alur Pendaftaran
 
-- **Pancasila Research Competition**
-  - Ajang lomba inovasi dan riset antar mahasiswa
-  - Mendorong daya kritis civitas akademika Universitas Pancasila
+Tahapan pendaftaran anggota organisasi
 
-### 3. Alur Pendaftaran
-
-Tahapan pendaftaran anggota organisasi:
-
-1. Mengisi formulir pendaftaran
-2. Mengikuti sesi wawancara
-3. Mengikuti diklat keorganisasian
-4. Mengikuti penugasan proyek riset perdana anggota resmi
-
-### 4. Kontak
+# 4. Kontak
 
 Informasi kontak R&D Universitas Pancasila:
-
-- **Email:** rnd@univpancasasila.ac.id
-- **Instagram:** [@rnd_pancasila](https://www.instagram.com/rnd_pancasila/)
-- **Website:** [UKM R&D Universitas Pancasila](https://univpancasila.ac.id/ukm-rd-kmup/)
-- **YouTube:** [Universitas Pancasila](https://www.youtube.com/@universitaspancasila8718)
 
 ## Tag HTML yang Digunakan
 
