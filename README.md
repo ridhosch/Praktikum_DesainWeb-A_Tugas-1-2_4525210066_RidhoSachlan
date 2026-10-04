@@ -15,17 +15,17 @@ Organisasi ini menjadi wadah bagi mahasiswa dari berbagai disiplin ilmu untuk me
 
 ## Struktur Halaman
 
-# 1. Tentang Organisasi
+#### 1. Tentang Organisasi
 Berisi informasi mengenai organisasi R&D Universitas Pancasila dan misi organisasi.
 
-# 2. Program dan Kegiatan
+#### 2. Program dan Kegiatan
 Program yang ditampilkan dalam website
 
-# 3. Alur Pendaftaran
+#### 3. Alur Pendaftaran
 
 Tahapan pendaftaran anggota organisasi
 
-# 4. Kontak
+#### 4. Kontak
 
 Informasi kontak R&D Universitas Pancasila:
 
